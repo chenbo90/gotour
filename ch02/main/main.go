@@ -17,13 +17,16 @@ const (
 	four
 )
 
-var(
-
+var (
 	rootCmd = &cobra.Command{
 		Use:          "pilot-discovery",
 		Short:        "Istio Pilot.",
 		Long:         "Istio Pilot provides fleet-wide traffic management capabilities in the Istio Service Mesh.",
 		SilenceUsage: true,
+		RunE: func(c *cobra.Command, args []string) error {
+			fmt.Println("我是rootCmd")
+			return nil
+		},
 	}
 	discoveryCmd = &cobra.Command{
 		Use:   "discovery",
@@ -34,8 +37,6 @@ var(
 			return nil
 		},
 	}
-
-
 )
 
 func main() {
@@ -51,6 +52,8 @@ func main() {
 
 	fmt.Println(strings.Contains("widuu", "wi")) //true
 	fmt.Println(strings.Contains("wi", "widuu")) //false
+	//rootCmd.Execute()
+	discoveryCmd.Execute()
 
 }
 
@@ -97,11 +100,16 @@ func testStr() {
 func init() {
 	fmt.Println("--我是main包内的init1--")
 	cmd.AddFlags(rootCmd)
-	rootCmd.AddCommand(discoveryCmd)
-
+	//rootCmd.AddCommand(discoveryCmd)
 
 }
 
 func init() {
 	fmt.Println("--我是main包内的init2--")
+}
+
+func init() {
+	fmt.Println("--我是main包内的init3--")
+	//rootCmd.AddCommand(discoveryCmd)
+
 }

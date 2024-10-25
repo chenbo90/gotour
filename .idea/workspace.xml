@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ac27cd-dcd3-4759-8214-684134131182" name="Default Changelist" comment="" />
+    <list default="true" id="07ac27cd-dcd3-4759-8214-684134131182" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch24-channel/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-1-cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch27-yaml/hello.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch27-yaml/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch28-sort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch28/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch29/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch30/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch31/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-embed/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-embed/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-embed/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-embed/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-embed/world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin/lesson07/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gorm/quick-start/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/server/helloworld.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v1/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v1/docker/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v2/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v2/first" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v3/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v3/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v3/first/first.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v3/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo-v3/second/second.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/server/docker/DockerFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/posts/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/upload1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21/gin/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch21/gin/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,93 +68,110 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" url="file:///opt/homebrew/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="1z4relGaR3j4jRuXH5uvPiPzQbj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
-    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pkg/cmd" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/pipi/Code/gotour/http/demo-v3/first",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/http/demo-v3/first" />
+      <recent name="$PROJECT_DIR$/http" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pkg/cmd" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/http/demo-v3/second" />
+      <recent name="$PROJECT_DIR$/templates/users" />
       <recent name="$PROJECT_DIR$/ch21/server" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pkg/cmd" />
-      <recent name="$PROJECT_DIR$/gin/lesson05" />
-      <recent name="$PROJECT_DIR$/ch21/gin" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build gotour/ch23">
-    <configuration name="go build gotour/ch02/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build gotour/ch32-embed">
+    <configuration name="go build gotour/ch26-cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gotour" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch02/main/main.go" />
-      <package value="gotour/ch02/main" />
-      <directory value="$PROJECT_DIR$/" />
+      <package value="gotour/ch26-cmd" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch26-cmd/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build gotour/ch06" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gotour/ch32-embed" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gotour" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch06/main.go" />
-      <package value="gotour/ch06" />
-      <directory value="$PROJECT_DIR$/" />
+      <package value="gotour/ch32-embed" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/ch32-embed/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build gotour/ch14-newormake" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gotour/grpc/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gotour" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch14-newormake/main.go" />
-      <package value="gotour/ch14-newormake" />
-      <directory value="$PROJECT_DIR$/" />
+      <package value="gotour/grpc/client" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/grpc/client/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build gotour/ch22" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gotour/grpc/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gotour" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch22/main.go" />
-      <package value="gotour/ch22" />
-      <directory value="$PROJECT_DIR$/" />
+      <package value="gotour/grpc/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/grpc/server/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build gotour/ch23" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gotour" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/ch23/main.go" />
-      <package value="gotour/ch23" />
-      <directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <package value="gotour" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/grpc/server/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build gotour/ch23" />
-        <item itemvalue="Go Build.go build gotour/ch06" />
-        <item itemvalue="Go Build.go build gotour/ch02/main" />
-        <item itemvalue="Go Build.go build gotour/ch22" />
-        <item itemvalue="Go Build.go build gotour/ch14-newormake" />
+        <item itemvalue="Go Build.go build gotour/ch32-embed" />
+        <item itemvalue="Go Build.go build gotour/ch26-cmd" />
+        <item itemvalue="Go Build.go build gotour/grpc/client" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build gotour/grpc/server" />
       </list>
     </recent_temporary>
   </component>
@@ -116,42 +187,12 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VgoProject">
-    <integration-enabled>true</integration-enabled>
-    <proxy>https://goproxy.cn,direct</proxy>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1371" height="222" key="GridCell.Tab.0.bottom" timestamp="1686032198614">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1371" height="222" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1686032198614" />
-    <state width="1371" height="222" key="GridCell.Tab.0.center" timestamp="1686032198613">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1371" height="222" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1686032198613" />
-    <state width="1371" height="222" key="GridCell.Tab.0.left" timestamp="1686032198613">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1371" height="222" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1686032198613" />
-    <state width="1371" height="222" key="GridCell.Tab.0.right" timestamp="1686032198614">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1371" height="222" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1686032198614" />
-    <state x="235" y="93" key="SettingsEditor" timestamp="1681871970635">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="235" y="93" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1681871970635" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1685946329767">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.822@0.23.1440.822" timestamp="1685946329767" />
-    <state x="389" y="218" width="689" height="472" key="find.popup" timestamp="1681872016893">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state x="389" y="218" width="689" height="472" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1681872016893" />
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -160,6 +201,11 @@
           <url>file://$PROJECT_DIR$/gif/main.go</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http/demo-v1/main.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
